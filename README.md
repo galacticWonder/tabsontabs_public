@@ -2,8 +2,6 @@
 
 **Tabs on Tabs** is a productivity-focused browser extension designed to help you take control of your tab overload. Whether you're a tab hoarder or just trying to stay focused, Tabs on Tabs gives you the tools to manage, track, and optimize your browsing habits.
 
----
-
 ## 🚀 Features
 
 - 🎯 **Daily Tab Goals**  
@@ -32,3 +30,9 @@
 
 - 🧓 **Tab Age Breakdown**  
   Get a visual breakdown of how old your tabs are—from fresh to ancient.
+
+## 📣 Feedback & Support
+
+- Found a bug? Have a feature request?
+- Open an issue or start a discussion right here on GitHub.
+
