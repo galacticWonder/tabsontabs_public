@@ -1,4 +1,4 @@
-# 🧠 Tabs on Tabs — Master Your Browser Tab Chaos
+# ![Alt text](img/shield-48.png) Tabs on Tabs — Master Your Browser Tab Chaos
 
 **Tabs on Tabs** is a productivity-focused browser extension designed to help you take control of your tab overload. Whether you're a tab hoarder or just trying to stay focused, Tabs on Tabs gives you the tools to manage, track, and optimize your browsing habits.
 
