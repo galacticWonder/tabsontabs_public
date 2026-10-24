@@ -1,7 +1,7 @@
 # TabsOnTabs Release Notes
 
 ## Version 2.0
-Release date: 03-23-2026
+Release date: 10-16-2026
 
 TabsOnTabs now works across 3 major browsers: Edge, Chrome & Firefox!<br>
 Tons of new features & bug fixes!
